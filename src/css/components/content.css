@@ -1,0 +1,19 @@
+.heading {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.movie-list {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.movie-item {
+    font-family: Arial, sans-serif;
+    color: #555;
+}
+
+.movie-picture {
+    width: 350px;
+    height: 450px;
+}

@@ -1,0 +1,51 @@
+*, :after, :before {
+  box-sizing: border-box;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 0;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.heading {
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+.movie-list {
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+.movie-item {
+  color: #555;
+  font-family: Arial, sans-serif;
+}
+/*# sourceMappingURL=index.77a9bc14.css.map */

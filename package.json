@@ -1,0 +1,21 @@
+{
+  "name": "base-parcel-build",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "parcel-transformer-hbs": "^1.0.4"
+  }
+}
